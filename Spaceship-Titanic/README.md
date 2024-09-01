@@ -12,3 +12,5 @@
 Accuracy
 ## Дополнительные метрики оценки качества модели  
 Матрица неточностей, ROC-кривая и AUC-ROC, Precision, Recall, F1-score
+## Ссылка на датасет
+https://www.kaggle.com/competitions/spaceship-titanic  
