@@ -13,4 +13,6 @@
 Индекс Жакара (реализован через логические операции)  
 ## Дополнительные метрики оценки качества модели  
 Precision, Recall, F1-score
+## Ссылка на датасет
+https://www.kaggle.com/datasets/prathamgrover/3d-liver-segmentation
 
