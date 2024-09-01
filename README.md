@@ -3,5 +3,5 @@
 - Проект liver-segmentation был выполнен в рамках проектного практикума в университете.
 - Проекты "Crypto-project", "RecSysKION", "coin_flip_bayes", "Robust-regression-HousePrices", "HMS" - были выполнены в рамках домашнего задания на курсе ML: Advanced от OTUS
   
-"Robust-regression-HousePrices" и "HMS" пока еще не добавлены, так как находятся в стадии завершения
+"HMS" пока еще не добавлен, так как находится на стадии завершения
 
